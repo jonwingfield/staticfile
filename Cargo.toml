@@ -22,7 +22,3 @@ url = "0.5"
 version = "0.1"
 optional = true
 
-[dev-dependencies]
-iron-test = "0.2"
-hyper = "0.7"
-router = "0"
